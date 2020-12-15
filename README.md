@@ -1,2 +1,2 @@
-# StudyProjects
+# Projects
 Projects made while learning
