@@ -29,4 +29,4 @@
 
 ## План исследования
 
- - [Шаг1] [#Link1]: (https://github.com/YuliyaKotova/projects/blob/main/predict_taxi_orders_timeseries/predict_taxi_orders.ipynb/)
+ - [Шаг1] [Link1]: (https://github.com/YuliyaKotova/projects/blob/main/predict_taxi_orders_timeseries/predict_taxi_orders.ipynb/)
