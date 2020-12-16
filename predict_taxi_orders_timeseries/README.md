@@ -1,6 +1,6 @@
 # Прогнозирование количества заказов такси на следующий час в аэропортах
 
-
+-[ссылка](#link1)
 
 ## Данные
 
@@ -27,6 +27,32 @@
  - *scipy*
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="link1"></a>
+
 ## План исследования
+
+
+
+
+
+
+
+
+
+
+
 
  - [Шаг1](https://github.com/YuliyaKotova/projects/blob/main/predict_taxi_orders_timeseries/predict_taxi_orders.ipynb#Link1)
