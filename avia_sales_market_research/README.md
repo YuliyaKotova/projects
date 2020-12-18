@@ -4,11 +4,18 @@
 
 ## Данные
 
-<details open>
-<summary>**query_1.csv**</summary>
+<details>
+<summary><b>query_1.csv</b></summary>
 <br>
-- *model* — модель самолета;
-- *flights_amount* — количество рейсов для каждой модели самолетов в сентябре 2018 года.
+
+<li>
+<p><b>model</b> - модель самолета</p>
+</li>
+
+<li>
+<p><b>flights_amount</b> - количество рейсов для каждой модели самолетов в сентябре 2018 года</p>
+</li>
+
 </details>
 
 <details open>
