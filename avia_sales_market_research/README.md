@@ -7,6 +7,7 @@
 <details>
 <summary><b>query_1.csv</b></summary>
 <br>
+<ol>
 
 <li>
 <p><b>model</b> - модель самолета</p>
@@ -16,19 +17,10 @@
 <p><b>flights_amount</b> - количество рейсов для каждой модели самолетов в сентябре 2018 года</p>
 </li>
 
+</ol>
 </details>
 
-<details open>
-<summary>**query_3.csv**</summary>
-<br>
-Well, you asked for it!
-</details>
 
-<details open>
-<summary>**query_last.csv**</summary>
-<br>
-Well, you asked for it!
-</details>
 
 ## Задача
 
