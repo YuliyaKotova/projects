@@ -4,10 +4,24 @@
 
 ## Данные
 
-1. первый
-2. 
-3. второй
+<details open>
+<summary>**query_1.csv**</summary>
+<br>
+- *model* — модель самолета;
+- *flights_amount* — количество рейсов для каждой модели самолетов в сентябре 2018 года.
+</details>
 
+<details open>
+<summary>**query_3.csv**</summary>
+<br>
+Well, you asked for it!
+</details>
+
+<details open>
+<summary>**query_last.csv**</summary>
+<br>
+Well, you asked for it!
+</details>
 
 ## Задача
 
