@@ -71,3 +71,4 @@
  - *matplotlib*
  - *numpy*
  - *scipy*
+ - *statsmodels* 
